@@ -2,8 +2,8 @@
 """
     BruteForSSHer
     Copyright 2018, Raviv Raz.
-    WebTuff is distributed under the terms of the GNU General Public License
-    WebTuff is free software: you can redistribute it and/or modify
+    BruteForSSHer is distributed under the terms of the GNU General Public License
+    BruteForSSHer is free software: you can redistribute it and/or modify
     it under the terms of the GNU General Public License as published by
     the Free Software Foundation, either version 3 of the License, or
     (at your option) any later version.
