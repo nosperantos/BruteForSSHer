@@ -19,11 +19,11 @@ d) Report all successful logins
 Get a user-name dictionary and name it "users.txt", and a password dictionary and name it "passwords.txt"
 Place the two files in the same directory with this code. Then run the following command:
 
-> brutessh.py <network-interface>
+brutessh.py network-interface
 
 Whereas <network-interface> is the one you want to use for the net scan. For instance:
 
-> brutessh.py eth0
+brutessh.py eth0
 
 If you do not include an interface name, a menu will offer you to choose from available interfaces.
 
